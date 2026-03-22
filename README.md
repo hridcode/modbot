@@ -17,7 +17,7 @@ ModBot is a versatile RP2040 development board/robot base for mini robots. It is
 
 |Schematic|PCB|
 |---|---|
-|!(Image of schematic)[photos/schematic.png]|!(Image of PCB)[photos/pcb.png]|
+|![Image of schematic](photos/schematic.png)|![Image of PCB](photos/pcb.png)|
 
 # Notes
 
